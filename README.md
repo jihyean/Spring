@@ -1,5 +1,14 @@
 # Spring
 
+[KDT]Spring 및 Ai기반 핀테크 프로젝트구축
+
+##
+2023.05.02 ~ 2023.11.06
+<br>
+[: 블로그]( https://dev-9rm.tistory.com/category/Web )
+
+<br>
+### 기본 설정
 window -> Preferences에 Spring 항목 확인
 help -> 이클립스 Marketplace 스프링3 설치 후 addOn 설치
 
