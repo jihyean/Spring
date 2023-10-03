@@ -7,7 +7,6 @@
 <br>
 [: 블로그]( https://dev-9rm.tistory.com/category/Web )
 
-<br>
 ### 기본 설정
 window -> Preferences에 Spring 항목 확인
 help -> 이클립스 Marketplace 스프링3 설치 후 addOn 설치
